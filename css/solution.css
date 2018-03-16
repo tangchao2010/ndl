@@ -1,0 +1,71 @@
+
+/*二级导航*/
+.Tnav{
+	text-align:center;
+	margin-top:50px;
+	background:#f2f2f2;	
+		
+	}
+.Tnav1 a{ 
+	font-size:16px;
+	font-family:'微软雅黑';
+	color:#0094D5;
+	
+	}
+
+.Tnav 			
+	
+.Tnav div{
+	}
+
+.nav-tabs{
+	border:none;	
+	}		
+
+.noborRadius{
+	border-radius:0;
+	margin-bottom:0;
+	}
+.layout{
+	box-shadow:2px 3px 3px #b8b8b8;
+	margin-bottom:16px;
+	}
+.ds_solution{ padding-top:40px; overflow:hidden;}
+.ds_solution h4{font-size:24px; line-height:36px;color:#333;margin-bottom:15px; font-family:'微软雅黑'; font-weight:normal;}	
+.ds_solution p{ font-size:14px; color:#dd4012; font-family:'微软雅黑'; margin-bottom:20px;}
+.caption h4{ padding-top:10px;}
+.nr_solution{ color:#4d4d4d; font-family:'微软雅黑'; font-size:14px; padding-bottom:14px;}
+
+.soluton_xq3 dl{ margin-top:20px;}
+.soluton_xq3 dd{ padding-left:12px; font-size:14px; line-height:22px; color:#333; font-family:'微软雅黑'; }
+
+.solution_xqbj{ margin-top:20px;}
+.solution_xqbj dt{ line-height:40px; font-size:16px; font-family:'微软雅黑'; color:#333;}
+.solution_xqbj dd{ font-family:'微软雅黑'; font-size:14px; color:#4d4d4d; line-height:24px;}
+
+.solution_xqbj dd:hover{ text-decoration:none;}
+.btn{ font-size:16px;  font-family:'微软雅黑'；}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+	
+	
+	

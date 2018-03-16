@@ -1,0 +1,112 @@
+.index_first_bac {
+  min-height: 400px;
+  height:auto;
+  z-index: 0;
+  background: #2c3236 url(../img/index_f_bac.jpg)  no-repeat fixed;
+  position: relative;
+}
+.index_first_bac h2 {
+  z-index: 2;
+  color: #fff;
+  line-height: 46px;
+  position: relative;
+  margin-bottom: 16px;
+  letter-spacing: 3px;
+  text-align:center;
+  font-family:'微软雅黑';
+}
+.index_first_bac h2:after {
+  display: none;
+}
+.index_first_bac p {
+  color: #18bbff;
+  display: block;
+  font-family:'微软雅黑';
+}
+.index_first_bac_text span{
+  color: #fff;
+  position: relative;
+  z-index: 2;
+  display: block;
+  font-size:14px;
+  font-family:'微软雅黑';	
+  text-align:center;
+}
+.index_first_bac_text{
+	padding-top:90px;	
+	}
+	
+/*index_second_bac*/	
+.index_second_bac {
+  min-height: 430px;
+  height:auto;
+  z-index: 0;
+  background: #2c3236 url(../img/index_f_bac.jpg)  no-repeat fixed;
+  position: relative;
+}
+.index_second_bac h2 {
+  z-index: 2;
+  color: #fff;
+  line-height: 46px;
+  position: relative;
+  margin-bottom: 16px;
+  letter-spacing: 3px;
+  text-align:center;
+  font-family:'微软雅黑';
+}
+.index_second_bac h2:after {
+  display: none;
+}
+.index_second_bac p {
+  color: #18bbff;
+  display: block;
+  font-family:'微软雅黑';
+}
+.index_second_bac_text span{
+  color: #fff;
+  position: relative;
+  z-index: 2;
+  display: block;
+  font-size:14px;
+  font-family:'微软雅黑';	
+  text-align:center;
+}
+.index_second_bac_text{
+	padding-top:90px;	
+	}
+.i_second_container{
+	padding-top:65px;	
+	}	
+.i_second_container span{
+	font-size:16px;
+	color:#fff;
+	line-height:26px;
+	font-family:'微软雅黑';
+	}	
+.i_second_container p{
+	font-size:14px;
+	color:#fff;	
+	line-height:22px;
+	}	
+.i_second_container ul{
+	padding-top:30px;	
+	}
+.i_second_container ul li{
+	font-size:14px;
+	color:#fff;
+	line-height:22px;
+	font-family:'微软雅黑';
+	
+	}	
+.i_second_container .addr li i {
+	width: 14px;
+	margin-right: 10px;
+	margin-bottom: 6px;
+	color: #00ACE9;
+	font-size: 18px;
+	text-align: center;	
+	}
+	
+.i_second_3	
+	
+		

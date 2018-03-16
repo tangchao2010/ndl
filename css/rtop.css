@@ -1,0 +1,78 @@
+﻿/* animation */
+.a-fadeinL
+	{
+		-webkit-animation:1s ease-out backwards;
+		-moz-animation:1s ease-out backwards;
+		-ms-animation:1s ease-out backwards;
+		animation:1s ease-out backwards;
+	}
+
+
+/* 淡入-从左 */
+.a-fadeinL{-webkit-animation-name:fadeinL;-moz-animation-name:fadeinL;-ms-animation-name:fadeinL;animation-name:fadeinL;}
+
+/* 淡入-从左 */
+@-webkit-keyframes fadeinL{
+    0%{opacity:0;-webkit-transform:translateX(-100px);}
+    100%{opacity:1;-webkit-transform:translateX(0);}
+}
+@-moz-keyframes fadeinL{
+    0%{opacity:0;-moz-transform:translateX(-100px);}
+    100%{opacity:1;-moz-transform:translateX(0);}
+}
+@-ms-keyframes fadeinL{
+    0%{opacity:0;-ms-transform:translateX(-100px);}
+    100%{opacity:1;-ms-transform:translateX(0);}
+}
+@keyframes fadeinL{
+    0%{opacity:0;transform:translateX(-100px);}
+    100%{opacity:1;transform:translateX(0);}
+}
+
+#code,#code_hover
+	{
+		width:40px;
+		height:195px;
+		background:url(../img/icon1.png) no-repeat;
+		position:fixed;
+		right:50px;
+		cursor:pointer;
+		}
+#code
+	{
+		background-position: -189px 0px;
+		bottom:120px;
+	}
+#code_hover
+	{
+		background-position: -189px 0px;
+		bottom:120px;
+	}
+#gotop
+	{
+		background-position:-276px -310px;
+		bottom:67px;
+		_margin-bottom:67px;
+    	width:40px;
+		height:40px;
+		position:fixed;
+		right:50px;
+		cursor:pointer;
+		
+}
+
+#code_img
+	{
+		width:270px;
+		height:355px;
+		background: url(../img/icon1.png) 92px 109px no-repeat;
+		position:fixed;
+		right:90px;
+		bottom:67px;
+		cursor:pointer;
+		display:none;
+		}
+		
+		
+		
+		
